@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\bin\Debug\netcoreapp3.1\Repeticion.Consola.exe
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\bin\Debug\netcoreapp3.1\Repeticion.Consola.deps.json
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\bin\Debug\netcoreapp3.1\Repeticion.Consola.runtimeconfig.json
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\bin\Debug\netcoreapp3.1\Repeticion.Consola.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\bin\Debug\netcoreapp3.1\Repeticion.Consola.dll
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\bin\Debug\netcoreapp3.1\Repeticion.Consola.pdb
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\obj\Debug\netcoreapp3.1\Repeticion.Consola.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\obj\Debug\netcoreapp3.1\Repeticion.Consola.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\obj\Debug\netcoreapp3.1\Repeticion.Consola.AssemblyInfo.cs
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\obj\Debug\netcoreapp3.1\Repeticion.Consola.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\obj\Debug\netcoreapp3.1\Repeticion.Consola.dll
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\obj\Debug\netcoreapp3.1\Repeticion.Consola.pdb
+C:\Users\USER\source\repos\Repeticion\Repeticion.Consola\obj\Debug\netcoreapp3.1\Repeticion.Consola.genruntimeconfig.cache
